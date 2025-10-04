@@ -26,31 +26,27 @@ This project is a **Deep Learning app** built with **PyTorch** and **Streamlit**
    ```bash
    git clone https://github.com/your-username/real-vs-fake-face-classifier.git
    cd real-vs-fake-face-classifier
+
+   Create a virtual environment & install requirements:
 pip install -r requirements.txt
+
+Run the app locally:
 streamlit run app.py
 🛠 Tools & Libraries
 
 Python
-
 PyTorch
-
 Torchvision
-
 NumPy
-
 Pillow
-
 Plotly
-
 Streamlit
-Example Output
+
+
+📊 Example Output
 
 Upload a face image
-
 Get prediction: Real or Fake
-
 See probability distribution in a bar chart
-👨‍💻 Author
 
-Muhammad Hamza
 
