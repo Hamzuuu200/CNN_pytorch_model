@@ -32,6 +32,8 @@ pip install -r requirements.txt
 
 Run the app locally:
 streamlit run app.py
+
+
 🛠 Tools & Libraries
 
 Python
@@ -46,8 +48,11 @@ Streamlit
 📊 Example Output
 
 Upload a face image
+
 Get prediction: Real or Fake
+
 See probability distribution in a bar chart
+
 
 
 
