@@ -14,7 +14,7 @@ This project is a **Deep Learning app** built with **PyTorch** and **Streamlit**
 ---
 
 ## 📂 Project Structure
-├── app.py # Main Streamlit app
+├── Streamlit_web_app.py # Main Streamlit app
 ├── requirements.txt # Dependencies
 ├── vgg16_model_weights.pth # Trained model weights (can be downloaded separately if >100MB)
 └── README.md # Project description
@@ -53,3 +53,4 @@ See probability distribution in a bar chart
 👨‍💻 Author
 
 Muhammad Hamza
+
